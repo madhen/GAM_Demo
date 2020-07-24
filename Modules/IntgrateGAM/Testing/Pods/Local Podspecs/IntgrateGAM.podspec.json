@@ -1,0 +1,28 @@
+{
+  "name": "IntgrateGAM",
+  "version": "0.1.0",
+  "summary": "A short description of IntgrateGAM.",
+  "homepage": "https://github.com/Varun mamindla/IntgrateGAM",
+  "license": {
+    "type": "MIT",
+    "file": "Modules/IntgrateGAM/LICENSE"
+  },
+  "authors": {
+    "Varun mamindla": "varun.mamindla@macys.com"
+  },
+  "source": {
+    "git": "https://github.com/Varun mamindla/IntgrateGAM.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "Modules/IntgrateGAM/IntgrateGAM/Classes/**/*",
+  "dependencies": {
+    "Google-Mobile-Ads-SDK": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
